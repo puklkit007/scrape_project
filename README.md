@@ -1,3 +1,8 @@
+# About
+
+Scrapes an education website material like videos and text using beautiful-soup and selenium and stores it in mongoDB database. The content is fetched from the
+database using NodeJS and displayed on a React UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
